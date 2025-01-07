@@ -1,3 +1,3 @@
-#analyze-chessboard
+**analyze-chessboard**
 
 Part of thesis

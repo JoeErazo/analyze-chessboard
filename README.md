@@ -1,1 +1,3 @@
-# JoeErazo.github.io
+#analyze-chessboard
+
+Part of thesis
